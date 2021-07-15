@@ -21,7 +21,8 @@
   "type": "module",
   "homepage": "https://github.com/grechkamanka/frontend-project-lvl1#readme",
   "dependencies": {
-    "bash": "^0.0.1"
+    "bash": "^0.0.1",
+    "readline-sync": "^1.4.10"
   },
   "devDependencies": {
     "eslint": "^7.30.0",
